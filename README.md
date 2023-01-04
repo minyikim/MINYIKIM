@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 </a>
 <br>
   
-
 <br>
-<h3>💪Skills💪</h3>
+<h3>💜Skills💜</h3>
 
 <p>👾Languages</p>
  <p>
