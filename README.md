@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 <!-- ---------------------------------------------------------------------------------------------- -->
 <div align="center">
- <h2><b>Hello! there~👋 I'm web publisher MINI😎</b><h2> 
- <hr>
-
- <a href="https://hits.seeyoufarm.com">
+<h2><b>Hello👋 I'm web publisher MINI😎</b><h2> 
+<img width="35%" src="https://user-images.githubusercontent.com/108590624/210601290-145df3d1-881c-40b8-ba0e-4b9ba2a5a464.gif"/>
+<br>
+ 
+<a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyikim&count_bg=%23FFD194&title_bg=%23AA6100&icon=fandom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
  </a>
  
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  </p>
-<br>
 <p>👾Tool</p>
  <p>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
