@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <!-- ---------------------------------------------------------------------------------------------- -->
 <div align="center">
-<h2><b>Hello👋 I'm web publisher MINI😎</b><h2> 
+<h2><b>Hello👋 I'm web publisher MINI😎</b><p>Only those who strive achieve their dreams :)</p><h2>
+
 <img width="35%" src="https://user-images.githubusercontent.com/108590624/210601290-145df3d1-881c-40b8-ba0e-4b9ba2a5a464.gif"/>
 <br>
  
