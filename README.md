@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="150"/>
+<img src="https://media4.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="180"/>
 
 <h4>Nice ways to reach me 👾</h4>
 <a href="https://www.instagram.com/_my9912/" target="_blank">
